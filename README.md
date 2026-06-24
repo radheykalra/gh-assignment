@@ -5,3 +5,7 @@ A small HTML demo that fills the browser window with animated binary digits. Hov
 ## Run
 
 Open `index.html` in any modern web browser.
+
+## License
+
+See `LICENSE`.
